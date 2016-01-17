@@ -369,6 +369,7 @@ de:
     female: "Frau"
     file: "Datei"
     file_rename_error: "Datei konnte nicht umbenannt werden."
+    from: 'von'
     from_at: "von %{by} am %{at}"
     height: "Höhe"
     help:
@@ -503,6 +504,7 @@ de:
       '768': '768px (iPad - Portrait)'
       '1024': '1024px (iPad - Breitbild)'
       '1280': '1280px (Desktop)'
+    public_available: Öffentlich verfügbar
     recently_uploaded_only: 'Kürzlich hochgeladene'
     "regular method": "herkömmlichen Methode"
     remove: "entfernen"
@@ -548,6 +550,7 @@ de:
     unlink: "Link entfernen"
     unlock_page: "Seite verlassen"
     unlocked_page: "Seite %{name} wurde freigegeben."
+    until: 'bis'
     uploader:
       alchemy/attachment:
         button_label: Datei(en) hochladen
