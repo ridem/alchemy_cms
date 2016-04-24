@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.4.0 (unreleased)
+
+__Notable Changes__
+
+* Adds an +EssencePictureView+ class responsible for rendering the `essence_picture_view`
+
 ## 3.3.0 (2016-05-18)
 
 __New Features__
