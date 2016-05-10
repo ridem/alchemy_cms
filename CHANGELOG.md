@@ -1,5 +1,11 @@
 # Change Log
 
+## 3.4.0 (unreleased)
+
+__New Features__
+
+* Adds a file type filter to file archive
+
 ## 3.3.0 (2016-05-18)
 
 __New Features__
