@@ -1,7 +1,6 @@
 module Alchemy
   class AttachmentSerializer < ActiveModel::Serializer
-    self.root = false
-
+    
     attributes :id,
       :name,
       :file_name,

@@ -1,7 +1,6 @@
 module Alchemy
   class LegacyElementSerializer < ActiveModel::Serializer
-    self.root = false
-
+    
     attributes :id,
       :name,
       :position,
