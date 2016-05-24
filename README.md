@@ -1,3 +1,7 @@
+# Note
+
+This branch is the 3.3-stable branch of AlchemyCMS, adapted for `active_model_serializers` 0.10
+
 [![Gem Version](https://badge.fury.io/rb/alchemy_cms.svg)](http://badge.fury.io/rb/alchemy_cms)
 [![Build Status](https://travis-ci.org/AlchemyCMS/alchemy_cms.svg?branch=3.3-stable)](https://travis-ci.org/AlchemyCMS/alchemy_cms)
 [![Code Climate](https://codeclimate.com/github/AlchemyCMS/alchemy_cms.svg)](https://codeclimate.com/github/AlchemyCMS/alchemy_cms)
